@@ -29,7 +29,7 @@ I then tested my prototype with my desired audience by asking unbiased, open-end
 ![](images/4.png)
 
 ### Iterate & Test & Iterate
-Eventually, I entered the final testing phase where I took into account the feedback I received, redesigned the app, and re-tested the prototype with users. At this stage, I refined the UI elements, added user flows and button states, such as distable states.
+Eventually, I entered the final testing phase where I took into account the feedback I received, redesigned the app, and re-tested the prototype with users. At this stage, I refined the UI elements, added interactions and button states, such as distable states.
 
 ![](images/3.png)
 
